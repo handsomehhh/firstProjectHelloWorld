@@ -1,2 +1,1 @@
-# firstProjectHelloWorld
-HelloWorld
+My first Github project!
